@@ -1,0 +1,14 @@
+OMIM_id
+entrez_id
+gene_symbol
+otheraliases
+maplocation
+gene_summary
+genomicinfo
+entrezGeneSymbol
+entrezGeneId
+termAssoc
+diseaseAssoc
+Gene_location
+Gene_text
+Gene_variant
